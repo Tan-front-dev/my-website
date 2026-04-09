@@ -1,0 +1,12 @@
+header{
+    background: #d3d3d3;
+    padding: 1em;
+}
+main{
+    background: darkgray;
+    padding: 1em;
+}
+footer{
+    background: gray;
+    padding: 1em;
+}
